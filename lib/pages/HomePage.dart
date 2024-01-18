@@ -70,7 +70,7 @@ class _HomePageState extends State<HomePage> {
                 Spacer(),
                 MaterialButton(
                   onPressed: _stopTimer, 
-                  color: const Color.fromARGB(255, 93, 40, 36),
+                  color: const Color.fromARGB(255, 93, 39, 36),
                   minWidth: 60,
                   height: 75,
                   shape: CircleBorder(),
